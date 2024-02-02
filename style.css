@@ -226,6 +226,7 @@ header nav a:hover{
     margin-bottom: 40px;
     align-items: center;
     color: #FFF;
+    transition: 500ms ease-in-out;
 }
 .shop-links h2{
     font-family: "Dancing Script", cursive;
